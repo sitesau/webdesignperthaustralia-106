@@ -1,0 +1,22 @@
+{
+  "wheel_id": 680,
+  "structure": "umbrella",
+  "slug": "webdesignperthaustralia-106",
+  "project": "web-design-perth-planning-guide-b5b370adce5a83ed2a729e688da4f85",
+  "parent_t1_ref": "webdesignperthaustralia-152",
+  "node_role": "feeder",
+  "money_target": "webdesignperthaustralia.com.au",
+  "primary_kw": "web design perth planning guide",
+  "intended_url": "https://sitesau.github.io/webdesignperthaustralia-106/",
+  "tier": "T2",
+  "writeback_nonce": "b833c266583f48d2",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/web-design-perth-faq-42f2afb9cbb8c51f98ab661d6b647200cb1f0f99/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
